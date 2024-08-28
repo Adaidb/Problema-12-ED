@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\Problema 12 ED\bin\Debug\net6.0\Problema 12 ED.exe
+C:\Users\HP\Downloads\Problema 12 ED\bin\Debug\net6.0\Problema 12 ED.deps.json
+C:\Users\HP\Downloads\Problema 12 ED\bin\Debug\net6.0\Problema 12 ED.runtimeconfig.json
+C:\Users\HP\Downloads\Problema 12 ED\bin\Debug\net6.0\Problema 12 ED.dll
+C:\Users\HP\Downloads\Problema 12 ED\bin\Debug\net6.0\Problema 12 ED.pdb
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.AssemblyInfo.cs
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.dll
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\refint\Problema 12 ED.dll
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.pdb
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\Problema 12 ED.genruntimeconfig.cache
+C:\Users\HP\Downloads\Problema 12 ED\obj\Debug\net6.0\ref\Problema 12 ED.dll
